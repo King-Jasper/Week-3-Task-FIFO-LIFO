@@ -1,0 +1,11 @@
+pName,pPrice,pQuantity,pCategory,pStock
+Red wine,350,100,wine,Yes
+Chocolate Cake,150,50,Cake,Yes
+Cologne Perfume,250,150,Perfume,Yes
+Short Bread Biscuit,100,100,Biscuit,Yes
+Beer Drinks,150,0,Alchoholic Drink,No
+Bottle Cahew Nut,500,0,Cashew,No
+Fried GroundNut,400,250,GroundNut,Yes
+Peers Baby Cream,250,120,Cream,Yes
+Red Apple,380,155,Apple,Yes
+Rose Bread,450,100,Bread,Yes
